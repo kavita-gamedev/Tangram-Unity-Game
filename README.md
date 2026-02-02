@@ -34,16 +34,17 @@ This project demonstrates an interactive puzzle system built in Unity, designed 
 
 ---
 
-## 🛠️ Project Structure
+## Project Structure
 
 Assets/
 ├── Scripts/
-│ ├── Piece.cs
-│ ├── PuzzleManager.cs
-│ └── AudioManager.cs
+│   ├── Piece.cs
+│   ├── PuzzleManager.cs
+│   └── AudioManager.cs
 ├── Prefabs/
 ├── Materials/
 └── Audio/
+
 
 ## 🚀 How to Run
 
